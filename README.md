@@ -1,6 +1,8 @@
 # Lista de recursos sobre Python de PyLadies Madrid
 Recopilación de recursos sobre Python para todos los niveles.
 
+Puedes contribuir añadiendo recursos que conozcas. Pincha [aquí](https://github.com/PyLadiesMadrid/recursos/edit/master/README.md) para editar este archivo y hacer un pull request con tus cambios.
+
 
 ## Cómo usar Python
 
