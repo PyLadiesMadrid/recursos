@@ -21,6 +21,7 @@ Si estás empezando y no te quieres complicar mucho, también hay sitios online 
 - [Python Tutorial](https://www.afterhoursprogramming.com/tutorial/python/python-overview/) ([After Hours Programming](https://www.afterhoursprogramming.com/about/)) - tutorial en inglés que explica Python desde cero, orientado a la faceta de programación web, aunque esta parte aún no está desarrollada.
 - [Python for Beginners](https://channel9.msdn.com/Series/Intro-to-Python-Development) ([Microsoft Channel 9](https://channel9.msdn.com/About)) - serie de vídeos en inglés para aprender Python desde cero. Los ejemplos de código que utilizan están [en este repositorio](https://github.com/microsoft/c9-python-getting-started).
 - [Tutorial de Django Girls](https://tutorial.djangogirls.org/es/) ([Django Girls](https://djangogirls.org/)) - tutorial en español que explica cómo crear un blog en Python desde cero usando un paquete que se llama Django. Tiene explicaciones muy completas sobre distintos aspectos de tecnología: la línea de comandos, cómo funciona Internet, qué es Python, etc. La [versión en inglés](https://tutorial.djangogirls.org/en/) es un poco más completa.
+- [SoloLearn](https://www.sololearn.com) - App y web con breves explicaciones y ejercicios para empezar desde cero con Python. 
 
 ## Katas
 
