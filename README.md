@@ -26,3 +26,7 @@ Si estás empezando y no te quieres complicar mucho, también hay sitios online 
 ## Katas
 
 - [Subiendo de nivel en Python mediante katas](https://github.com/IrenePEncinar/workshops/tree/master/katas_pyladies) - ([Irene P. Encinar](https://twitter.com/irenuchi)) - material que preparó para el meetup de katas de PyLadies Madrid en abril de 2018. Explicación de qué son las katas, para qué sirven, y ejercicios recomendados.
+
+## Otros recursos
+
+Curso **gratuito** de IBM sobre *[Machine Learning](https://cleverdata.io/que-es-machine-learning-big-data/)* e *[Inteligencia Artificial](https://es.wikipedia.org/wiki/Inteligencia_artificial)* en Python: https://www.edx.org/es/course/aprendizaje-automatico-con-python-una-introduccion-practica
