@@ -27,11 +27,11 @@ Si estás empezando y no te quieres complicar mucho, también hay sitios online 
 
 - [Subiendo de nivel en Python mediante katas](https://github.com/IrenePEncinar/workshops/tree/master/katas_pyladies) - ([Irene P. Encinar](https://twitter.com/irenuchi)) - material que preparó para el meetup de katas de PyLadies Madrid en abril de 2018. Explicación de qué son las katas, para qué sirven, y ejercicios recomendados.
 
+## Otros recursos
 
-## Otros
-
-- [Corey Schafer MS](https://coreyms.com/category/development/python) ([Corey Schafer](https://twitter.com/CoreyMSchafer)).  Tutoriales de Python. Serie de [vídeos](https://www.youtube.com/user/schafer5/videos)). Los ejemplos de código están [en este repositorio](https://github.com/CoreyMSchafer).
+- Curso **gratuito** de IBM sobre *[Machine Learning](https://cleverdata.io/que-es-machine-learning-big-data/)* e *[Inteligencia Artificial](https://es.wikipedia.org/wiki/Inteligencia_artificial)* en Python: https://www.edx.org/es/course/aprendizaje-automatico-con-python-una-introduccion-practica
 - Curso de Python de [Píldoras Informáticas](https://www.pildorasinformaticas.es/course/curso-python/curriculum/), con una [lista de reproducción](https://www.youtube.com/watch?v=G2FCfQj-9ig&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS) asociada en YouTube. 
+- [Corey Schafer MS](https://coreyms.com/category/development/python) ([Corey Schafer](https://twitter.com/CoreyMSchafer)).  Tutoriales de Python. Serie de [víd<<<<<< patch-1eos](https://www.youtube.com/user/schafer5/videos)). Los ejemplos de código están [en este repositorio](https://github.com/CoreyMSchafer).
 - [Real Python](https://realpython.com/). Al margen de sus tutoriales, tienen algunos artículos con ejemplos y explicación de alguna de las librerías de Python o de funciones específicas, del estilo de este sobre [pandas](https://realpython.com/fast-flexible-pandas/)
 
 Las siguientes fuentes están más relacionadas con Data Science y Machine Learning, pero también tienen algún tutorial de Python y/o ejemplos de código para la realización de modelos.
